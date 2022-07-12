@@ -1,5 +1,5 @@
 # Hello, everyone , I'm Victor Borges ! 
-###### Pronouns: He/him (Ele).
+###### Pronouns: He/him (Ele/Dele).
 - I'm accountant, post graduate in Accounting and Law Taxes and Development Web student. I like to play e-games and a lot of other sports ... love animals, the nature and all of good things that we can talk someday, on a possible conversation !
 - For me, the most important on human relations is, help each other and, make us envolve !
 
