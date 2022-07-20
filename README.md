@@ -19,7 +19,7 @@
 </div>
 
 <div align="right">
-  <a href="https://linkedin.com/in/victor-borges-beasolucoes" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a>
+  <a href="https://linkedin.com/in/victor-borges-beasolucoes" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="Linkedin"></a>
 </div>
 
 
