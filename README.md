@@ -14,15 +14,24 @@
 </div>
 
 <div align="center" style="display: inline_block">
-  <img align="center" height="120" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" height="120" width="60"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img align="center" height="120" width="60"           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img align="center" height="120" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="center" height="120" width="60"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img align="center" height="120" width="60"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img align="center" height="120" width="60"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align="center" height="120" width="60" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
   <img align="center" height="120" width="60" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
+  <img align="center" height="120" width="60" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
+  <img align="center" height="120" width="60" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+          
+   
 </div>
 
 <div align="right">
