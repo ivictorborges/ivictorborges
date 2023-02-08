@@ -12,9 +12,9 @@
 <div>
   <img height="162cm"
        src="https://github-readme-stats.vercel.app/api?username=ivictorborges&show_icons=true&theme=tokyonight"/>
-  <img height="162cm"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivictorborges&layout=compact&theme=tokyonight"/>
 </div>
+
+## My Tools :
 
 <div align="center" style="display: inline_block">
   <img align="center" height="120" width="60"
