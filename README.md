@@ -7,7 +7,7 @@
 - For me, the most important on human relations is, help each other and, make us evolve !
 
 
-## GitHub Status :
+## GitHub Stats :
 
 <div>
   <img height="162cm"
