@@ -17,8 +17,11 @@
 ## Tools :
 
 <div align="center" style="display: inline_block">
+  
   <img align="center" height="120" width="60"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="center" height="120" width="60"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" height="120" width="60"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img align="center" height="120" width="60"
@@ -28,17 +31,23 @@
   <img align="center" height="120" width="60" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
   <img align="center" height="120" width="60" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
-  <img align="center" height="120" width="60" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
   <img align="center" height="120" width="60" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />       
+  <img align="center" height="120" width="60" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img align="center" height="120" width="60" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />   
+  <img align="center" height="120" width="60" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
+  <img align="center" height="120" width="60"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" />
           
-   
 </div>
 
-<div align="right">
-  <a href="https://linkedin.com/in/victor-borges-beasolucoes" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="Linkedin"></a>
+  <div align="right">
+    <a href="https://linkedin.com/in/victor-borges-beasolucoes" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="Linkedin"></a>
+
 </div>
 
 
