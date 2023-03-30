@@ -17,6 +17,7 @@
 ## Tools :
 
 <div align="center" style="display: inline_block">
+  
   <div>
     <img align="center" height="120" width="60"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
@@ -24,9 +25,9 @@
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />   
     <img align="center" height="120" width="60"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />    
-  <img align="center" height="120" width="60"
   </div>
-    
+  
+  <img align="center" height="120" width="60"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" height="120" width="60"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
