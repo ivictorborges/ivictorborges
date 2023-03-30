@@ -27,6 +27,8 @@
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />    
   </div>
   
+  <img align="center" height="120" width="60" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
   <img align="center" height="120" width="60"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" height="120" width="60"
@@ -37,8 +39,6 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align="center" height="120" width="60" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
-  <img align="center" height="120" width="60" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
   <img align="center" height="120" width="60" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />       
   <img align="center" height="120" width="60" 
