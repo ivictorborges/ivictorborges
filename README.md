@@ -44,6 +44,8 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
   <img align="center" height="120" width="60"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" />
+  <img align="center" height="120" width="60"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" />
           
 </div>
 
