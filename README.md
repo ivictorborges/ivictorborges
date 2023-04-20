@@ -1,7 +1,7 @@
 # Hello, everyone , I'm Victor Borges ! 
 ###### Pronouns: He/him (Ele/Dele).
-- I'm accountant, post graduate in Accounting and Law Taxes and Web Development student !
-- On About section, has some technologies that I already learned on @tryber !
+- I'm Accountant, Post Graduated in Accounting and Law Taxes & Back End Web Development !
+- On About section, has some technologies that I already learned through my studies !
 - I always be able to learn more and more, I'm passionate for new challenges !
 - I like to play e-games and a lot of other sports ... love animals, the nature and all of good things that we could learn !
 - For me, the most important on human relations is, help each other and, make us evolve !
