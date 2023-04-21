@@ -9,7 +9,7 @@
 
 ## GitHub Stats ⭐ :
 
-<div>
+<div align="center" style="display: block">
   <img height="162cm"
        src="https://github-readme-stats.vercel.app/api?username=ivictorborges&show_icons=true&theme=prussian"/>
   <img height="162cm"
