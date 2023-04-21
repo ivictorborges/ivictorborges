@@ -13,7 +13,7 @@
   <img height="162cm"
        src="https://github-readme-stats.vercel.app/api?username=ivictorborges&show_icons=true&theme=prussian"/>
   <img height="162cm"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivictorborges&show_icons=true&theme=prussian"/>
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivictorborges&layout=compact&theme=prussian"/>
 </div>
 
 ## Tools :
