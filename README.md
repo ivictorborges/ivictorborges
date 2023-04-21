@@ -1,4 +1,4 @@
-# Hello, everyone , I'm Victor Borges ! 
+# Hello, everyone , I'm Victor Borges 👨‍💻 ! 
 ###### Pronouns: He/him (Ele/Dele).
 - I'm Accountant, Post Graduated in Accounting and Law Taxes & Back End Web Development !
 - On About section, has some technologies that I already learned through my studies !
@@ -7,7 +7,7 @@
 - For me, the most important on human relations is, help each other and, make us evolve !
 
 
-## GitHub Stats :
+## GitHub Stats ⭐ :
 
 <div>
   <img height="162cm"
@@ -16,7 +16,7 @@
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivictorborges&layout=compact&theme=prussian"/>
 </div>
 
-## Tools :
+## Tools 🧰 :
 
 <div align="center" style="display: inline_block">
   
