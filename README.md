@@ -12,7 +12,7 @@
 <div>
   <img height="162cm"
        src="https://github-readme-stats.vercel.app/api?username=ivictorborges&show_icons=true&theme=prussian"/>
-  <img
+  <img height="162cm"
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivictorborges&layout=compact&theme=prussian"/>
 </div>
 
@@ -56,9 +56,8 @@
           
 </div>
 
-  <div align="right">
+<div align="right">
     <a href="https://linkedin.com/in/victor-borges-beasolucoes" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="Linkedin"></a>
-
 </div>
 
 
