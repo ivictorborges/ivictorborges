@@ -20,7 +20,7 @@
 
 <div align="center" style="display: inline_block">
   
-  <div border="1px solid white">
+  <div>
     <img align="center" height="100" width="50"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
     <img align="center" height="100" width="50"
