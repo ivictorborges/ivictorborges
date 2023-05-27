@@ -1,6 +1,6 @@
 # Hello, everyone , I'm Victor Borges 👨‍💻 ! 
 ###### Pronouns: He/him (Ele/Dele).
-- I'm Accountant, Post Graduated in Accounting and Law Taxes & Back End Web Developer !
+- I'm Accountant, Post Graduated in Accounting and Law Taxes & Back-end Web Developer !
 - On my toolkit , has some technologies that I already learned through my studies !
 - I always be able to learn more and more, I'm passionate for new challenges !
 - I like to play e-games and a lot of other sports ... love animals, the nature and all of good things that we could learn !
