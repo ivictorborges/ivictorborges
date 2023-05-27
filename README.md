@@ -1,7 +1,7 @@
 # Hello, everyone , I'm Victor Borges 👨‍💻 ! 
 ###### Pronouns: He/him (Ele/Dele).
-- I'm Accountant, Post Graduated in Accounting and Law Taxes & Back End Web Development !
-- On About section, has some technologies that I already learned through my studies !
+- I'm Accountant, Post Graduated in Accounting and Law Taxes & Back End Web Developer !
+- On my toolkit , has some technologies that I already learned through my studies !
 - I always be able to learn more and more, I'm passionate for new challenges !
 - I like to play e-games and a lot of other sports ... love animals, the nature and all of good things that we could learn !
 - For me, the most important on human relations is, help each other and, make us evolve !
@@ -16,7 +16,7 @@
        src="https://github-readme-stats.vercel.app/api?username=ivictorborges&show_icons=true&theme=prussian"/>
 </div>
 
-## Tools 🧰 :
+## Toolkit 🧰 :
 
 <div align="center" style="display: inline_block">
   
