@@ -20,7 +20,7 @@
 
 <div align="center" style="display: inline_block">
   
-  <div>
+  <div border="1px solid white">
     <img align="center" height="100" width="50"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
     <img align="center" height="100" width="50"
@@ -29,7 +29,7 @@
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />    
   </div>
   
-  <div border="1px white">
+  <div>
     <img align="center" height="100" width="50" 
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
     <img align="center" height="100" width="50"
