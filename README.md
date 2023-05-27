@@ -16,7 +16,7 @@
        src="https://github-readme-stats.vercel.app/api?username=ivictorborges&show_icons=true&theme=prussian"/>
 </div>
 
-## Toolkit 🧰 :
+## Toolkit 🔧 :
 
 <div align="center" style="display: inline_block">
   
