@@ -2,8 +2,8 @@
 ###### Pronouns: He/him (Ele/Dele).
 - I'm Accountant, Post Graduated in Accounting and Law Taxes & Back-end Web Developer !
 - On my toolkit , has some technologies that I already learned through my studies !
-- I always be able to learn more and more, I'm passionate for new challenges !
-- I like to play e-games and a lot of other sports ... love animals, the nature and all of good things that we could learn !
+- For me, back-end development offers a unique perspective on crafting software. It's like being the architect behind the scenes, creating the foundation that supports the user experience. I find immense satisfaction in designing scalable and secure systems, optimizing performance, and ensuring the smooth flow of data, and, I always be able to learn more and more, I'm passionate for new challenges !
+- I'm eager to connect with fellow developers, share knowledge, and collaborate on exciting projects. Feel free to explore my repositories and reach out to me for discussions, collaborations, or just to say hello. Let's create amazing things together !
 - For me, the most important on human relations is, help each other and, make us evolve !
 
 
