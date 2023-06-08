@@ -41,6 +41,13 @@
   </div>
   
   <div>
+    <img align="center" height="100" width="50" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+    <img align="center" height="100" width="50" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+  </div>
+  
+  <div>
     <img align="center" height="100" width="50"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
     <img align="center" height="100" width="50"
@@ -49,13 +56,6 @@
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
     <img align="center" height="100" width="50" 
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
-  </div>
-  
-  <div>
-    <img align="center" height="100" width="50" 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-    <img align="center" height="100" width="50" 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
   </div>
   
   <div>
